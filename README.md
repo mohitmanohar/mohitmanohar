@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Generative
 
 - 🔭 I’m currently working on various web development and generative AI projects.
 - 🌱 I’m always eager to learn and explore new technologies in the field of AI and web development.
-- 💬 Ask me about web development, generative AI, and Python.
-- 📫 How to reach me: [mohitmanohar@example.com](mailto:mohitmanohar@example.com)
-- ⚡ Fun fact: I like poetry and love to travel.
+- 💬 Ask me about web development, generative AI and Python.
+- 📫 How to reach me: [mohitmanohar@example.com](mailto:mohit.mohit0123@gmail.com)
+- ⚡ Fun fact: I like making Intelligent Systems and loves to travel.
 
 ## 🛠️ Technologies & Tools
 
