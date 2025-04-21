@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Generative
 
 ## 📫 Connect with Me
 
-- LinkedIn: ([https://www.linkedin.com/in/mohitmanohar/](https://www.linkedin.com/in/mohit-manohar-991097119/))
+- LinkedIn: https://www.linkedin.com/in/mohit-manohar/
 - E-Mail: mohit.mohit0123@gmail.com
 
 Thanks for stopping by! 😊
